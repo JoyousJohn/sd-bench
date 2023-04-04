@@ -1,5 +1,5 @@
 # sd-card-tests
-H2testw results for obscure micro SD card brands
+H2testw results for obscure or uncommon micro SD card brands. Observed average results sourced from H2testw speeds when attempting to verify detected card capacity.
 
 | Brand | Claimed <br> Size | Designation | Expected | Observed (avg.) | Marketplace | Genuine? | Notes |
 | - | - | - | - | - | - | - | - |
