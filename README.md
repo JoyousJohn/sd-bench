@@ -1,5 +1,5 @@
 # sd-card-tests
-H2testw results for obscure or uncommon micro SD card brands. Cards are first assessed by FakeFlashTest. Observed average results sourced from final H2testw speeds when attempting to verify detected card capacity.
+H2testw results for obscure or uncommon micro SD card brands. Cards are first assessed by FakeFlashTest. Observed average results sourced from final H2testw speeds when attempting to verify detected card capacity and compared to speeds from manual transfers afterward.
 
 | Brand | Claimed <br> Size | Designation | Expected | Observed (avg.) | Marketplace | Genuine? | Notes |
 | - | - | - | - | - | - | - | - |
