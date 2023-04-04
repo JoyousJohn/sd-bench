@@ -1,6 +1,7 @@
 # sd-card-tests
 H2testw results for obscure micro SD card brands
 
-| Brand | Claimed <br> Size | Designation | Expected | Observed | Marketplace | Genuine? |
-| - | - | - | - | - | - | - |
-| TOPESEL | 64GB | UHS-1 C10 | 59.6GB raw <br> >10 MB/s write <br> <104 MB/s read <br> | 58.6GB usable <br> 12 MB/s write <br> 78 MB/s read | Temu | Yes |
+| Brand | Claimed <br> Size | Designation | Expected | Observed (avg.) | Marketplace | Genuine? | Notes |
+| - | - | - | - | - | - | - | - |
+| TOPESEL | 64GB | UHS-I <br> C10 | 59.6GB raw <br> >10 MB/s write <br> <104 MB/s read <br> | 58.6GB usable <br> 12 MB/s write <br> 78 MB/s read | Temu | Yes |
+| KODAK | 64GB | V30 <br> UHS-III <br> C10 | 59.6GB raw <br> >30 MB/s write <br> <624 MB/s read <br> | 58.2GB usable <br> 45 MB/s write <br> 84 MB/s read | Temu | Yes | Came with KODAK.ico <br> and autorun.inf for icon |
