@@ -3,6 +3,7 @@ H2testw results for obscure or uncommon micro SD card brands. Cards are first as
 
 | Brand | Claimed <br> Size | Designation | Expected | Observed (avg.) | Marketplace | Genuine? | Notes |
 | - | - | - | - | - | - | - | - |
+| EAGET | 128GB | V30 <br> UHS-III <br> C10 <br> A1 | 119.2GB raw <br> >30 MB/s write | 119.2GB usable <br> 52 MB/s write <br> 82.9 MB/s read | Temu <br> $4.94 | Yes |
 | TOPESEL | 64GB | UHS-I <br> C10 | 59.6GB raw <br> >10 MB/s write | 58.6GB usable <br> 12 MB/s write <br> 78 MB/s read | Temu <br> $3.38 | Yes | Came with adapter. |
 | KODAK | 64GB | V30 <br> UHS-III <br> C10 | 59.6GB raw <br> >30 MB/s write | 58.2GB usable <br> 45 MB/s write <br> 84 MB/s read | Temu <br> $4.58 | Yes | Came with KODAK.ico <br> and autorun.inf for icon. <br> Came with adapter. | 
 | Eldingu | 64GB | UHS-III <br> C10 | 59.6GB raw <br> >30 MB/s write | 59.4GB usable <br> 25.9 MB/s write <br> 84 MB/s read | AliExpress <br> $1.99 | Short of advertised write speed. |
