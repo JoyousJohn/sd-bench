@@ -24,6 +24,7 @@ H2testw results for obscure or uncommon micro SD card brands. Cards are first as
 | Netac | 64GB | UHS-I U1 <br> C10 <br> A1 | 59.6GB raw <br> >10 MB/s write | 58.4GB usable <br> 19.9 MB/s write <br> 42.1 MB/s read | Temu <br> $2.69 | Yes |
 | TECLAST | 64GB | V30 <br> UHS-I U3 | 59.6GB raw <br> >30 MB/s write | 58.2GB usable <br> 40.8 MB/s write <br> 77 MB/s write | Temu <br> $2.49 | Yes | 
 | RELETECH | 64GB | UHS-I U3 <br> C10 <br> A1 | 59.6GB raw <br> >30 MB/s write | 58.6GB usable <br> 35.1 MB/s write <br> 79.7 MB/s write | AliExpress <br> $1.99 | Yes |
+| MOVESPEED Ultra | 64GB | V30 <br> U3 <br> C10 <br> A2 | 59.6GB raw <br> >30 MB/s write | 58.2GB usable <br> 33 MB/s write <br> 84.5 MB/s read | Temu <br> $2.49 | Yes | No UHS rating |
 | KEXIN | 32GB | UHS-I <br> C10 | 29.8GB raw <br> >10 MB/s write | 29.1GB usable <br> 10.6 MB/s write <br> 39 MB/s read | Temu <br> $2.38 | Yes | Barely surpassed minimum write speeds. Avoid. |
 | Lexar | 32GB | UHS-I <br> C10 | 29.8GB raw <br> >10 MB/s write | 29.5GB usable <br> 33 MB/s write <br> 43 MB/s read | AliExpress <br> $1.99 | Yes | Difficult to believe a genuine(?) Lexar card is available for $2. |
 | OLEVO | 32GB | UHS-I <br> C10 | 29.8GB raw <br> >10 MB/s write | 29.4GB usable <br> 11.8 MB/s write <br> 17.6 MB/s read | AliExpress <br> $1.74 | Short of advertised read speeds | Short of claimed "15-30 MB/s read" in listing description. Came formatted as FAT32 but could only be reformatted as NTFS, otherwise crashes FakeFlashTest and File Explorer. Very sketchy card in terms of reliability. |
