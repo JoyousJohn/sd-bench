@@ -4,6 +4,7 @@ H2testw results for obscure or uncommon micro SD card brands. Cards are first as
 | Brand | Claimed <br> Size | Designation | Expected | Observed (avg.) | Marketplace | Genuine? | Notes |
 | - | - | - | - | - | - | - | - |
 | Unbranded "MEMORY CARD" ("mask") | 256GB | UHS-I U1 <br> C10 | 238GiB <br> >10 MB/s write | 14.4GiB usable <br> 27.7 MB/s write <br> 50.4 MB/s read | Temu <br> $2.59 | No | Expected this one to be fake but gave it a chance due to the cents invested toward the artwork |
+| Microdrive | 256GB | UHS-I U3 <br> C10 | 238.4GiB <br> >30 MB/s write | 232GiB <br> 52 MB/s write <br> 81.6MB/s read | Temu | Yes |
 | EAGET | 128GB | V30 <br> UHS-III <br> C10 <br> A1 | 119.2GB raw <br> >30 MB/s write | 119.2GB usable <br> 52 MB/s write <br> 82.9 MB/s read | Temu <br> $4.94 | Yes |
 | SHANNANZI | 128GB | C10 | 119.2GB raw <br> >10 MB/s write | 58.5GB usable <br> 16.8 MB/s write <br> 14.6 MB/s read | Temu <br> $3.19 | No | Disappointed to see a second fake card from Temu. To give it some credit, the packaging claimed a 7 MB/s max write, so there's that. The adapter it came with also had no branding whatsoever and limited genuine SD cards to <18 MB/s write. |
 | TFIIOK| 128GB | UHS-I <br> C10 <br> A2 | 119.2GB raw <br> >10 MB/s write | 117.0GB usable <br> 43.2 MB/s write <br> 79.8 MB/s read | Temu <br> $3.64 | Yes | Came with adapter. |
